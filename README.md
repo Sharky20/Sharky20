@@ -1,6 +1,5 @@
-- Learning networking with python 
-- Plan to learn neural networks with python
-- Currently trying to make online card game for my friends
+Learning web dev with [The Odin Project](https://www.theodinproject.com)
+ 
 
 <!---
 Sharky20/Sharky20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
